@@ -1,0 +1,18 @@
+footer {
+  font-family: 'Roboto', sans-serif;
+}
+
+footer h5 {
+  font-weight: bold;
+  color: #f8f9fa;
+}
+
+footer a:hover {
+  color: #17a2b8; /* Cambia a un color más brillante al pasar el cursor */
+  text-decoration: underline;
+}
+
+footer p {
+  color: #d6d6d6;
+  font-size: 0.9rem;
+}
